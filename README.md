@@ -40,7 +40,7 @@ TaskMaster is a microservices-based application designed for managing a to-do li
 1. **Clone the repository:**
 
     ```bash
-    git clone <https://github.com/MehdiMsa/TaskMaster>
+    git clone https://github.com/MehdiMsa/TaskMaster
     cd taskmaster
     ```
 
