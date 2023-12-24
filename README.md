@@ -82,10 +82,10 @@ Prometheus and Grafana are integrated to monitor the TaskMaster microservices.
 
 ## Contributing
 
-- ** Ines Ktiti
-- ** Emir Aissa
-- ** Farouk Kooli
-- ** Mehdi M'sallem
+- Ines Ktiti
+- Emir Aissa
+- Farouk Kooli
+- Mehdi M'sallem
 
 ## License
 
